@@ -48,6 +48,22 @@ class _DreamScreenState extends State<DreamScreen> {
                   child: Text("AI Engineer"),
                 ),
                 DropdownMenuItem(
+                  value: "robotics",
+                  child: Text("Robotics Engineer"),
+                ),
+                DropdownMenuItem(
+                  value: "cloud",
+                  child: Text("Cloud Engineer"),
+                ),
+                DropdownMenuItem(
+                  value: "datascience",
+                  child: Text("Data Scientist"),
+                ),
+                DropdownMenuItem(
+                  value: "genai",
+                  child: Text("Generative AI Engineer"),
+                ),
+                DropdownMenuItem(
                   value: "shop",
                   child: Text("Shop Owner"),
                 ),

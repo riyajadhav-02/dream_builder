@@ -46,6 +46,40 @@ class _DashboardScreenState extends State<DashboardScreen> {
         "Learn Marketing",
         "Start Business",
       ],
+      "robotics": [
+        "Learn C++",
+        "Learn Arduino",
+        "Learn Sensors",
+        "Learn Raspberry Pi",
+        "Learn ROS",
+        "Build Robot Projects",
+      ],
+
+      "cloud": [
+        "Learn Linux",
+        "Learn Networking",
+        "Learn AWS",
+        "Learn Docker",
+        "Learn Kubernetes",
+        "Build Cloud Projects",
+      ],
+
+      "datascience": [
+        "Learn Python",
+        "Learn Statistics",
+        "Learn Pandas",
+        "Learn Machine Learning",
+        "Build Projects",
+      ],
+
+      "genai": [
+        "Learn Python",
+        "Learn Machine Learning",
+        "Learn Deep Learning",
+        "Learn LLMs",
+        "Learn Prompt Engineering",
+        "Build GenAI Projects",
+      ],
     };
 
     tasks = roadmaps[widget.dream] ?? ["No roadmap found"];
