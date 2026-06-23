@@ -1,17 +1,50 @@
-# dream_builder
+# Dream Builder 🚀
 
-A new Flutter project.
+Dream Builder is a Flutter application that helps users choose a career path and track their learning progress.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+✅ Career Roadmaps
 
-A few resources to get you started if this is your first Flutter project:
+✅ Progress Tracking
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+✅ Progress Saving
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Interactive Dashboard
+
+✅ Multiple Career Options
+
+## Available Career Paths
+
+* Embedded Engineer
+* AI Engineer
+* Robotics Engineer
+* Cloud Engineer
+* Data Scientist
+* Generative AI Engineer
+* Shop Owner
+
+## Technologies Used
+
+* Flutter
+* Dart
+* SharedPreferences
+* Git & GitHub
+
+## Screenshots
+
+(Add screenshots here later)
+
+## Future Plans
+
+* AI Generated Roadmaps
+* Firebase Login System
+* Cloud Database
+* Modern UI Design
+* User Profiles
+
+## Developer
+
+Riya Jadhav
+
+GitHub: riyajadhav-02
